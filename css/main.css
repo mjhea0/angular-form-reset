@@ -1,0 +1,22 @@
+body {
+  background-color: #B7BBBF;
+}
+
+.container {
+  margin-top: 50px;
+  border: 1px solid gray;
+  padding-bottom: 20px;
+  background-color: white;
+}
+
+.input {
+  font-weight: bold;
+}
+
+.value {
+  font-style: italic;
+}
+
+#reset-btn, #show {
+  display: none;
+}
